@@ -5,7 +5,7 @@ SkyDragon (Project Management System) no confidential files
 
 ### 專案背景 (Project Background)
 
-這個專案的只是一個備份, 讓我回憶起曾經熟練 Delphi (Object Pascal) 這門語言, 一個沒有 GC ,記憶體需要自行管理的語言, 一個觀念錯誤就很容易引發 Memory Leak 的語言。Delphi 是一門古老而優秀的程式語言，曾經風靡一時，然而如今已被現代程式語言取而代之。我希望透過這個專案，分享一些不怎麼樣的實作方式, 來救救這個快要消失的程式語言。
+這個專案的只是一個備份，讓我回憶起曾經熟練 Delphi (Object Pascal) 這門語言, 一個沒有 GC，記憶體需要自行管理的語言，一個觀念錯誤就很容易引發 Memory Leak 的語言。Delphi 是一門古老而優秀的程式語言，曾經風靡一時，然而如今已被現代程式語言取而代之。我希望透過這個專案，分享一些不怎麼樣的實作方式，來救救這個快要消失的程式語言。
 
 ### 專案目標 (Project Objectives)
 
