@@ -38,7 +38,6 @@ Through this project, we hope to rekindle the joy of Delphi programming and shar
 ![alt text](https://github.com/SwingsH/delphi-PM-System-SD-clone/blob/main/skydragon_docs/db_schema_2.jpg)
 ![alt text](https://github.com/SwingsH/delphi-PM-System-SD-clone/blob/main/skydragon_docs/db_schema_tb2.jpg)
 ![alt text](https://github.com/SwingsH/delphi-PM-System-SD-clone/blob/main/skydragon_docs/db_schema_tb3.jpg)
-![alt text](https://github.com/SwingsH/delphi-PM-System-SD-clone/blob/main/skydragon_docs/sd02_sec.jpg)
 ![alt text](https://github.com/SwingsH/delphi-PM-System-SD-clone/blob/main/skydragon_docs/sd04_sec.jpg)
 ![alt text](https://github.com/SwingsH/delphi-PM-System-SD-clone/blob/main/skydragon_docs/sd09_sec.jpg)
 
